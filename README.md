@@ -8,4 +8,4 @@ In this project, we will use data from accelerometers on the belt, forearm, arm,
 
 The data consists of a Training data and a Test data (to be used to validate the selected model).
 
-The goal of your project is to predict the manner in which they did the exercise. This is the “classe” variable in the training set. You may use any of the other variables to predict with.
+The goal of your project is to predict the manner in which they did the exercise. This is the “classe” variable in the training set.
