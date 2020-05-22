@@ -290,7 +290,7 @@ corrPlot <- cor(trainData[, -length(names(trainData))])
 corrplot(corrPlot, method="color")
 ```
 
-![](course-project_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/archit2606/Practical-Machine-Learning/blob/master/correlation%20matrix.png)<!-- -->
 
 2) Decision tree 
 
