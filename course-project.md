@@ -289,7 +289,7 @@ result
 corrPlot <- cor(trainData[, -length(names(trainData))])
 corrplot(corrPlot, method="color")
 ```
-
+ 
 ![](https://github.com/archit2606/Practical-Machine-Learning/blob/master/correlation%20matrix.png)<!-- -->
 
 2) Decision tree 
