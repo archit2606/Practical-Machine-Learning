@@ -217,4 +217,4 @@ predtree <- rpart(classe ~ ., data = trainData, method = "class")
 prp(predtree)
 ```
 
-![](course-project_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
+![](https://github.com/archit2606/Practical-Machine-Learning/blob/master/prediction%20tree.png)<!-- -->
